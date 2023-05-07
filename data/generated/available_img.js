@@ -1,0 +1,1 @@
+const availableImg = ["Beck2016Visual","esteso_international"];
