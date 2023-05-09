@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual","esteso_international"];
+const availableImg = ["Beck2016Visual","elraoui_2023_agent","esteso_international","farhan_reinforcement","feng_2022_coordinating","huang_2021_event","koch_2020_a","lu_2019_incentivebased","ma_2019_hierarchical","polydoros_2017_survey","wang_2020_service"];
